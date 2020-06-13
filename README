@@ -1,0 +1,7 @@
+A Customer Billing  System, which will manage all the required activities in a hotel such as entering a customer’s name, address, bed room type, calculating total bill amount, showing tax value and displaying it on a text screen.
+The application consists of 3 buttons-
+1. Total (calculates total bill amount)
+2. Reset (Resets all the entry)
+3. Exit (prompts a messagebox for confirmation to exit the application)
+
+Python interface named Tkinter is used for making GUI(graphical user interface).
